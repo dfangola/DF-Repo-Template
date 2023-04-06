@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-<style>html, body { scroll-behavior: smooth; }</style>
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -19,20 +17,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.digitalfactory.co.ao/">
+  <a href="https://www.digitalfactory.co.ao/" target="_blank">
     <img src="https://cms.digitalfactory.co.ao/api/assets/intranet-digital-factory/7e2d1bad-0efd-43a1-8385-bd11393c35ef/yellow.svg?version=0" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">{{ [app-name] }}</h3>
+  <h2 align="center">{{ Nome da aplicação }}</h2>
 
   <p align="center">
     Olá, deixe aqui a descrição da aplicação
     <br />
     <br />
 	<!-- Coloque aqui a url do site/app na play store ou app store -->
-    <a href="https://www.digitalfactory.co.ao/">Ver aplicação</a>
+    <a href="https://www.digitalfactory.co.ao/" target="_blank">Ver aplicação</a>
     ·
-    <a href="https://github.com/dfangola/DF-Repo-Template/issues">Reportar Bug</a>
+    <a href="https://github.com/dfangola/DF-Repo-Template/issues" target="_blank">Reportar Bug</a>
   </p>
 </div>
 
@@ -62,9 +60,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre o projecto
+<h2 id="about-the-project">Sobre o projecto</h2>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- Adicione uma captura do projecto aqui -->
+![Product Name Screen Shot](https://cms.digitalfactory.co.ao/api/assets/intranet-digital-factory/c5296bb5-0b04-4421-bf2e-7b35aea5d7d5/screenshot.png?version=0)
 
 Deixe aqui um resumo sobre esta aplicação.
 
@@ -72,19 +71,21 @@ Deixe aqui um resumo sobre esta aplicação.
 
 
 
-### Tecnologias
+<h3 id="built-with">Tecnologias</h3>
 
 Durante o desenvolvimento, muitas tecnologias foram utilizadas, sendo estas as seguintes:
 
-* [Angular](https://angular.io/)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-* [Next.js](https://nextjs.org/)
-* [Nuxt.js](https://nuxtjs.org/)
-* [React.js](https://reactjs.org/)
-* [Svelte](https://svelte.dev/)
-* [Vue.js](https://vuejs.org/)
+* <a href="https://adonisjs.com/">AdonisJS</a>
+* <a href="https://angular.io/">Angular</a>
+* <a href="https://getbootstrap.com">Bootstrap</a>
+* <a href="https://jquery.com">JQuery</a>
+* <a href="https://laravel.com">Laravel</a>
+* <a href="https://nextjs.org/">Next.js</a>
+* <a href="https://nuxtjs.org/">Nuxt.js</a>
+* <a href="https://reactjs.org/">React.js</a>
+* <a href="https://svelte.dev/">Svelte</a>
+* <a href="https://vuejs.org/">Vue.js</a>
+* <a href="https://wordpress.org/">Wordpress</a>
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
@@ -144,5 +145,3 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [stars-url]: https://github.com/dfangola/DF-Repo-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/dfangola/DF-Repo-Template/issues
-[product-screenshot]: images/screenshot.png
-[app-name]: DF-Repo-Template
