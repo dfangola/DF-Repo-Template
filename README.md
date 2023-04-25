@@ -126,9 +126,9 @@ Já tem todos os pré-requisitos na sua máquina? Então prontos, siga os passos
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
-<h3 id="contact">Contactos</h3>
+<h3 id="contact">Contactos / Contribuidores</h3>
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_github](https://github.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
